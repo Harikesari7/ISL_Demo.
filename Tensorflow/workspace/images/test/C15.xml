@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All_images</folder>
+	<filename>C15.jpg</filename>
+	<path>D:\images\All_images\C15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>C</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>366</xmin>
+			<ymin>310</ymin>
+			<xmax>565</xmax>
+			<ymax>467</ymax>
+		</bndbox>
+	</object>
+</annotation>
